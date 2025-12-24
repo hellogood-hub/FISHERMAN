@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Niraj-888/FisherMan-Fabric-1.21/refs/heads/main/src/main/resources/assets/fisherman/icon.png" width="128" height="128" />
+  <img src="https://github.com/hellogood-hub/FISHERMAN/blob/main/icon.png" width="128" height="128" />
 </p>
 
 # FisherMan 🎣
